@@ -1,0 +1,25 @@
+{
+  "name": "fastode",
+  "version": "0.1.0",
+  "description": "Opinionated API server based on fastify.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techformist/fastode.git"
+  },
+  "keywords": [
+    "fastode",
+    "fastify",
+    "nodejs",
+    "webapi"
+  ],
+  "author": "Prashanth Krishnamurthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techformist/fastode/issues"
+  },
+  "homepage": "https://github.com/techformist/fastode#readme"
+}
