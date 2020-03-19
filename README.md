@@ -6,7 +6,7 @@ An opinionated web API server based on Fastify.
 
 Follow [@techformist](https://twitter.com/techformist) for updates.
 
-Inspired by Laravel, AdonisJS and Fastify - Fastode builds on great work of smart developers to provide a toolset that let's you focus on building something beautiful.
+Fastode builds on top of Fastify and its plugin ecosystem to provide a toolset that let's you focus on building something beautiful.
 
 Fastode is a framework that is not really a framework. We could have simply called it a boilerplate with a few changes in bits and pieces, but hey - where's the fun in that.
 
@@ -24,13 +24,13 @@ CLI is planned for a brighter future.
 npm run start
 ```
 
-Use [PM2](https://www.npmjs.com/package/pm2) in production to maintain sanity and assure well being of all.
-
-Monitor and react to changes (in development, yes):
+Monitor and react to changes in development:
 
 ```
 npm run dev
 ```
+
+Use [PM2](https://www.npmjs.com/package/pm2) in production to maintain sanity and assure well being of all.
 
 ## Core Objectives
 
